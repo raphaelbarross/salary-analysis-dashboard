@@ -50,7 +50,7 @@ Projeto de **análise de dados** desenvolvido em Python, que transforma uma base
 - monthly_salary_brazil.csv
 - app.py
 - README.md
-- requirements.txt
+  
 
   ---
 
