@@ -1,4 +1,6 @@
 #  Dashboard de Análise de Salários 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/5a06d14f-e70d-4c39-8055-2556c8521972" />
+
 
 Projeto de **análise de dados** desenvolvido em Python, que transforma uma base pública de salários mensais no Brasil em um **dashboard interativo**, permitindo explorar e visualizar informações de forma clara e dinâmica.
 
